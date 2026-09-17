@@ -1,68 +1,151 @@
 <div align="center">
 
-  <h1>⚡ UPENDRASAI CHATURVEDULA ⚡</h1>
-  <p><b>Full Stack & AI Developer | MCA Graduate</b></p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Upendra+Sai+Chaturvedula;Full-Stack+Developer;AI+%26+LLM+Engineer;MCA+Graduate+%7C+Immediate+Joiner" alt="Typing SVG" />
 
-  <p>
-    <a href="https://linkedin.com/in/upendrasai-chaturvedula-0a7642343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://upendrasai1101.github.io/my-portfolio-/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-    <a href="mailto:upendrasai1101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-
-</div>
-
----
-
-### 🚀 About Me
-- 🎓 **MCA Graduate** with strong expertise in Computer Science & Full-Stack Architectures.
-- 🛠️ Built **8+ Production-Grade Applications** including Multi-modal AI Agents, Enterprise ERP, and Blockchain.
-- ⚡ **Core Focus:** Scalable Web Architectures, REST APIs, and Intelligent LLM Systems (Groq, Anthropic, OpenRouter).
-- 📍 **Status:** Available for immediate joining | Open to Remote & Worldwide Relocation.
-
----
-
-### 💻 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,flask,html,css,tailwind,mysql,postgres,docker,git,github,postman&perline=8" />
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLM%20Engineer-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Relocate-FB923C?style=for-the-badge" />
 </p>
 
----
+<p>
+  <a href="https://upendrasai1101.github.io/my-portfolio-/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0EA5E9?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/upendrasai-chaturvedula-0a7642343"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:upendrasai1101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-### 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" bgcolor="#0d1117">
-      <h3 align="center">🐼 Panda AI Assistant</h3>
-      <p>Multi-user AI assistant featuring real-time search grounding, multimodal processing (PDF, audio, video), and zero-cost fallback architecture.</p>
-      <p><b>Tech Stack:</b> <code>Python</code> <code>Flask</code> <code>Groq API</code> <code>LLAMA</code> <code>React</code></p>
-    </td>
-    <td width="50%" bgcolor="#0d1117">
-      <h3 align="center">🏢 AI-Powered ERP System</h3>
-      <p>Enterprise resource management platform integrating LLM for automated reordering, business advisory, and fraud detection.</p>
-      <p><b>Tech Stack:</b> <code>Java OOP</code> <code>MySQL</code> <code>REST APIs</code> <code>Groq LLM</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Upendrasai1101&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Upendrasai1101&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upendrasai1101&theme=tokyonight&hide_border=false" width="97%" />
 </div>
 
 ---
+
+### 🧑‍💻 About Me
+
+- 🎓 **MCA Graduate** — Avanthi Institute of Engineering & Technology, Hyderabad
+- 💼 Building **full-stack, AI-powered, and blockchain** applications with Java, Python, React, Node.js, Flask, and LLM APIs (Groq)
+- 🚀 Independently designed and deployed **8+ end-to-end projects** — multi-user AI assistants, AI-driven ERP systems, blog platforms, and Web3 apps
+- 📜 Certified in Anthropic Claude/MCP, Prompt Engineering, SQL, and Full-Stack Development
+- 📍 Based in India — **immediately available**, open to relocate anywhere
+- ⚡ Fun fact: I like turning ideas into zero-cost, production-ready deployments
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <i>Designed by Upendrasai Chaturvedula • Ready for High-Impact Software Roles 🚀</i>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,flask,tailwind,mysql,postgres,git,github,docker,postman,vscode&theme=dark" />
 </p>
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| **Languages** | Java, Python, JavaScript, SQL, PL/SQL, C++ |
+| **AI & LLM** | Groq API, LLaMA Integration, Prompt Engineering, MCP |
+| **Web** | React.js (Vite), Node.js, Express.js, Flask, Tailwind CSS |
+| **Database** | MySQL, PostgreSQL |
+| **Tools** | Git, GitHub, Docker, Postman |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Upendrasai1101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=E7EBF3" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Upendrasai1101&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=E7EBF3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendrasai1101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E7EBF3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Upendrasai1101&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=FB923C" />
+</p>
+
+<!-- Contribution Snake — add the snake workflow in .github/workflows/snake.yml to generate this automatically -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Upendrasai1101/Upendrasai1101/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🐼 Panda AI**
+Multi-user AI assistant with real-time search grounding & multimodal file processing.
+
+`Flask` `Python` `Groq API`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](https://huggingface.co/spaces/Upendrasai/Panda-AI-Official)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Ai-projects/tree/main/panda_ai/panda_ai)
+
+</td>
+<td width="33%" valign="top">
+
+**💼 Resource & Budget ERP**
+Multi-domain ERP with an AI engine for business insights & auto-reordering.
+
+`Java` `Groq LLM` `REST API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Ai-projects/tree/main/resource-erp)
+
+</td>
+<td width="33%" valign="top">
+
+**📝 AI Blog Platform**
+AI content generation, SEO automation & a context-aware RAG chatbot.
+
+`React` `Express` `Groq LLaMA API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Ai-projects/tree/main/ai-blog-platform/ai-blog-platform)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://upendrasai1101.github.io/my-portfolio-/#projects">View all 8+ projects on my portfolio →</a></p>
+
+---
+
+### 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Systems-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FB923C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-10B981?style=for-the-badge" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Upendrasai1101&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://upendrasai1101.github.io/my-portfolio-/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Upendrasai1101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/upendrasai-chaturvedula-0a7642343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:upendrasai1101@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+⭐ **Available for immediate joining — open to relocate anywhere in India** ⭐
+
+<img src="https://komarev.com/ghpvc/?username=Upendrasai1101&style=for-the-badge&color=8B5CF6" />
+
+</div>
