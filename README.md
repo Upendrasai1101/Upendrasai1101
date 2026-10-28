@@ -135,7 +135,7 @@ Pincode-based lead router with a live dashboard and a Flask AI API using the Gro
   <img src="https://img.shields.io/badge/System%20Design-EC4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FB923C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-10B981?style=for-the-badge" />
+
 </p>
 
 ---
