@@ -21,7 +21,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **MCA Graduate** — Avanthi Institute of Engineering & Technology, Hyderabad
-- 💼 Building **full-stack, AI-powered, and blockchain** applications with Java, Python, React, Node.js, Flask, and LLM APIs (Groq)
+- 💼 Building **full-stack, AI-powered, and blockchain** applications with Java, Spring Boot, Python, React, Node.js, Flask, and LLM APIs (Groq)
 - 🚀 Independently designed and deployed **8+ end-to-end projects** — multi-user AI assistants, AI-driven ERP systems, blog platforms, and Web3 apps
 - 📜 Certified in Anthropic Claude/MCP, Prompt Engineering, SQL, and Full-Stack Development
 - 📍 Based in India — **immediately available**, open to relocate anywhere
@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,flask,tailwind,mysql,postgres,git,github,docker,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,nodejs,express,flask,tailwind,mysql,postgres,git,github,docker,postman,vscode&theme=dark" />
 </p>
 
 <div align="center">
@@ -41,6 +41,7 @@
 |---|---|
 | **Languages** | Java, Python, JavaScript, SQL, PL/SQL, C++ |
 | **AI & LLM** | Groq API, LLaMA Integration, Prompt Engineering, MCP |
+| **Backend** | Spring Boot, Spring Security (JWT), JPA/Hibernate, REST APIs |
 | **Web** | React.js (Vite), Node.js, Express.js, Flask, Tailwind CSS |
 | **Database** | MySQL, PostgreSQL |
 | **Tools** | Git, GitHub, Docker, Postman |
@@ -98,7 +99,30 @@ AI content generation, SEO automation & a context-aware RAG chatbot.
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="33%" valign="top">
+
+**🔐 Employee Leave Management**
+Spring Boot 3 REST API with JWT login, manager and employee roles, leave rules and 28 unit tests.
+
+`Spring Boot` `Spring Security` `MySQL`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/employee-leave-management)
+
+</td>
+<td width="33%" valign="top">
+
+**📍 LRDLR**
+Pincode-based lead router with a live dashboard and a Flask AI API using the Groq LLM.
+
+`JavaScript` `Firebase` `Flask`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Lrdlr)
+
+</td>
+    </tr>
+    
+</tr></table>
 
 <p align="center"><a href="https://upendrasai1101.github.io/my-portfolio-/#projects">View all 8+ projects on my portfolio →</a></p>
 
