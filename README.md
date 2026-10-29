@@ -25,7 +25,7 @@
 - 🚀 Independently designed and deployed **8+ end-to-end projects** — multi-user AI assistants, AI-driven ERP systems, blog platforms, and Web3 apps
 - 📜 Certified in Anthropic Claude/MCP, Prompt Engineering, SQL, and Full-Stack Development
 - 📍 Based in India — **immediately available**, open to relocate anywhere
-- ⚡ Fun fact: I like turning ideas into zero-cost, production-ready deployments
+- ⚡ Fun fact: I like turning ideas into zero-cost, working deployments
 
 ---
 
