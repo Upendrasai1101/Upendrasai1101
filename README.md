@@ -154,7 +154,7 @@ Pincode-based lead router with a live dashboard and a Flask AI API using the Gro
 <p align="center">
   <a href="https://upendrasai1101.github.io/my-portfolio-/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Upendrasai1101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/upendrasai-chaturvedula-0a7642343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/upendrasai-chaturvedula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:upendrasai1101@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
