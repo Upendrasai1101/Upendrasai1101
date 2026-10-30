@@ -69,13 +69,12 @@
 <tr>
 <td width="33%" valign="top">
 
-**🐼 Panda AI**
-Multi-user AI assistant with real-time search grounding & multimodal file processing.
+**🔐 Employee Leave Management**
+Spring Boot 3 REST API with JWT login, manager and employee roles, leave rules and 28 unit tests.
 
-`Flask` `Python` `Groq API`
+`Spring Boot` `Spring Security` `MySQL`
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](https://huggingface.co/spaces/Upendrasai/Panda-AI-Official)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Ai-projects/tree/main/panda_ai/panda_ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/employee-leave-management)
 
 </td>
 <td width="33%" valign="top">
@@ -90,24 +89,25 @@ Multi-domain ERP with an AI engine for business insights & auto-reordering.
 </td>
 <td width="33%" valign="top">
 
-**📝 AI Blog Platform**
-AI content generation, SEO automation & a context-aware RAG chatbot.
+**🐼 Panda AI**
+Multi-user AI assistant with real-time search grounding & multimodal file processing.
 
-`React` `Express` `Groq LLaMA API`
+`Flask` `Python` `Groq API`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Ai-projects/tree/main/ai-blog-platform/ai-blog-platform)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](https://huggingface.co/spaces/Upendrasai/Panda-AI-Official)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Ai-projects/tree/main/panda_ai/panda_ai)
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**🔐 Employee Leave Management**
-Spring Boot 3 REST API with JWT login, manager and employee roles, leave rules and 28 unit tests.
+**📝 AI Blog Platform**
+AI content generation, SEO automation & a context-aware RAG chatbot.
 
-`Spring Boot` `Spring Security` `MySQL`
+`React` `Express` `Groq LLaMA API`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/employee-leave-management)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Ai-projects/tree/main/ai-blog-platform/ai-blog-platform)
 
 </td>
 <td width="33%" valign="top">
@@ -120,9 +120,8 @@ Pincode-based lead router with a live dashboard and a Flask AI API using the Gro
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Lrdlr)
 
 </td>
-    </tr>
-    
-</tr></table>
+</tr>
+</table>
 
 <p align="center"><a href="https://upendrasai1101.github.io/my-portfolio-/#projects">View all 8+ projects on my portfolio →</a></p>
 
