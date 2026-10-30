@@ -24,7 +24,7 @@
 - 💼 Building **full-stack, AI-powered, and blockchain** applications with Java, Spring Boot, Python, React, Node.js, Flask, and LLM APIs (Groq)
 - 🚀 Independently designed and deployed **8+ end-to-end projects** — multi-user AI assistants, AI-driven ERP systems, blog platforms, and Web3 apps
 - 📜 Certified in Anthropic Claude/MCP, Prompt Engineering, SQL, and Full-Stack Development
-- 📍 Based in India — **immediately available**, open to relocate⭐ **Available for immediate joining — open to relocation across India & internationally** ⭐
+- - 📍 Based in Hyderabad, India — **immediately available**, open to relocation across India & internationally
 - ⚡ Fun fact: I like turning ideas into zero-cost, working deployments
 
 ---
