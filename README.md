@@ -161,7 +161,7 @@ Pincode-based lead router with a live dashboard and a Flask AI API using the Gro
 
 <div align="center">
 
-⭐ **Available for immediate joining — open to relocate anywhere in India** ⭐
+⭐ **Available for immediate joining — open to relocation across India & internationally** ⭐
 
 <img src="https://komarev.com/ghpvc/?username=Upendrasai1101&style=for-the-badge&color=8B5CF6" />
 
