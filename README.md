@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://upendrasai1101.github.io/my-portfolio-/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0EA5E9?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/upendrasai-chaturvedula-0a7642343"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/upendrasai-chaturvedula"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:upendrasai1101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
