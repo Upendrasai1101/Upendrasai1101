@@ -20,11 +20,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **MCA Graduate** — Avanthi Institute of Engineering & Technology, Hyderabad
-- 💼 Building **full-stack, AI-powered, and blockchain** applications with Java, Spring Boot, Python, React, Node.js, Flask, and LLM APIs (Groq)
-- 🚀 Independently designed and deployed **8+ end-to-end projects** — multi-user AI assistants, AI-driven ERP systems, blog platforms, and Web3 apps
+- 🎓 **MCA Graduate**, Avanthi Institute of Engineering & Technology, Hyderabad
+- 💼 Building **full-stack, mobile, AI-powered, and blockchain** applications with Java, Spring Boot, Python, React, React Native (Expo), Node.js, Flask, and LLM APIs (Groq)
+- 🚀 Independently designed and deployed **8+ end-to-end projects**: multi-user AI assistants, AI-driven ERP systems, blog platforms, and Web3 apps, plus a React Native Android app
 - 📜 Certified in Anthropic Claude/MCP, Prompt Engineering, SQL, and Full-Stack Development
-- 📍 Based in Hyderabad, India — **immediately available**, open to relocation across India & internationally
+- 📍 Based in Hyderabad, India. **Immediately available**, open to relocation across India & internationally
 - ⚡ Fun fact: I like turning ideas into zero-cost, working deployments
 
 ---
@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,nodejs,express,flask,tailwind,mysql,postgres,git,github,docker,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,nodejs,express,flask,firebase,tailwind,mysql,postgres,git,github,docker,postman,vscode&theme=dark" />
 </p>
 
 <div align="center">
@@ -43,7 +43,8 @@
 | **AI & LLM** | Groq API, LLaMA Integration, Prompt Engineering, MCP |
 | **Backend** | Spring Boot, Spring Security (JWT), JPA/Hibernate, REST APIs |
 | **Web** | React.js (Vite), Node.js, Express.js, Flask, Tailwind CSS |
-| **Database** | MySQL, PostgreSQL |
+| **Mobile** | React Native, Expo, EAS Build |
+| **Database** | MySQL, PostgreSQL, Firebase Firestore |
 | **Tools** | Git, GitHub, Docker, Postman |
 
 </div>
@@ -113,11 +114,13 @@ AI content generation, SEO automation & a context-aware RAG chatbot.
 <td width="33%" valign="top">
 
 **📍 LRDLR**
-Pincode-based lead router with a live dashboard and a Flask AI API using the Groq LLM.
+Pincode-based lead router with a live dashboard and a Flask AI API using the Groq LLM, plus a React Native (Expo) Android app with the same AI features.
 
-`JavaScript` `Firebase` `Flask`
+`JavaScript` `Firebase` `Flask` `React Native`
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-8B5CF6?style=flat-square)](https://lrdlr-demo.web.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/Upendrasai1101/Lrdlr)
+[![Android APK](https://img.shields.io/badge/Android-APK-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Upendrasai1101/Lrdlr/releases)
 
 </td>
 </tr>
@@ -160,7 +163,7 @@ Pincode-based lead router with a live dashboard and a Flask AI API using the Gro
 
 <div align="center">
 
-⭐ **Available for immediate joining — open to relocation across India & internationally** ⭐
+⭐ **Available for immediate joining, open to relocation across India & internationally** ⭐
 
 <img src="https://komarev.com/ghpvc/?username=Upendrasai1101&style=for-the-badge&color=8B5CF6" />
 
